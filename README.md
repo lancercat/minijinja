@@ -1,4 +1,4 @@
-# Toolkit for result static or monitoring
+# Toolkit for result statistic or monitoring
 This is a trimmed portable version of the internal remote management toolkit "neko_jinia".
 
 We release this to help you visualize the logs for moose 
