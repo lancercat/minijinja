@@ -1,0 +1,4 @@
+{
+    "bezerlius": {
+    "ltype": "solid", "name": "bezerlius", "username": "lasercat", "key": "/home/lasercat/.ssh/id_rsa", "root": "/run/media/lasercat/thirdeye/moose_logs_models/all/", "port": "22", "addr": "localhost"}
+}

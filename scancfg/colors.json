@@ -1,0 +1,8 @@
+{
+  "circle9": ["#CFFFFF", "#6F8BF9", "#F56E41", "#B8DEFF", "#FDF6FE"],
+  "madoka": ["#ffbae4", "#ff8dc7", "#d47295", "#bf3f6c"],
+  "nep": ["#5b5ddf", "#3f54ba", "#274687", "#d5d5ec"],
+  "orange": ["#ffcc90", "#ffb65f", "#ff991e", "#dc7800"],
+  "red": ["#00ff00", "#8ab70e", "#a3c440", "#71f515"],
+  "vert": ["#93c47d","#b6d7a8","#d9ead3","#8fce00","#274e13"]
+}

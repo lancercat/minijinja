@@ -1,0 +1,48 @@
+{
+  "sharenone_05_ld_long__2024-02-01-13-29-51": {
+    "color": "#555555",
+    "modules": {}
+  },
+  "hori_sharebbn_62_ld_long_10434818_2024-02-07-12-06-42": {
+    "color": "#aaaaaa",
+    "modules": {}
+  },
+  "hori_sharebbn_l_05_ld_long_10434819_2024-02-07-12-06-56": {
+    "color": "#777777",
+    "modules": {}
+  },
+  "hori_sharebbn_s_05_ld_long_10434820_2024-02-07-12-07-07": {
+    "color": "#999999",
+    "modules": {}
+  },
+  "sharebbn_62_ld_long_10434821_2024-02-07-12-07-17": {
+    "color_section": "vert",
+    "color_id": 0
+  },
+  "yukon_sharebbn_62_ld_long_XL_10434825_2024-02-07-12-07-49": {
+    "color_section": "vert",
+    "color_id": 1
+  },
+  "sharebbn_62RS_ld_long_10434822_2024-02-07-12-07-27": {
+    "color_section": "circle9",
+    "color_id": 2,
+    "modules": {}
+  },
+  "sharebbn_05_ld_long_10436205_2024-02-07-13-32-28": {
+    "color_section": "madoka",
+    "color_id": 2,
+    "modules": {}
+  },
+  "shareall_62_ld_long_10452003_2024-02-09-08-38-28":
+  {
+    "color_section": "red",
+    "color_id": 0,
+    "modules": {}
+  },
+  "sharenone_62_ld_long_10452004_2024-02-09-08-38-33":
+  {
+    "color_section": "red",
+    "color_id": 0,
+    "modules": {}
+  }
+}

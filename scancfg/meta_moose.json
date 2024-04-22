@@ -1,0 +1,19 @@
+{
+  "devpath": "scancfg/devices.json",
+  "bundlepath": "scancfg/bundles.json",
+  "methodpath": "scancfg/method_rel.json",
+
+  "colorpath": "scancfg/colors.json",
+  "vds": [
+    "JPNHV-gzsl_all",
+    "JPNHV-gzsl_horizontal",
+    "JPNHV-gzsl_vertical"
+  ],
+  "projects": [
+    "project_moose"
+  ],
+  "working_dir": "/run/media/lasercat/thirdeye/moose_logs_models/workdir",
+  "tester_name":"Not used",
+  "tester_gpu": "Not used",
+  "testkeys": [200000,400000]
+}
