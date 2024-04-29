@@ -246,7 +246,12 @@ class handler(QtWidgets.QMainWindow):
         torch.save(resd,os.path.join(metameta["working_dir"],"resd.pt"));
         stat=this.do_statisitic(resd);
         torch.save(stat, os.path.join(metameta["working_dir"], "stat.pt"));
-        pprint.pprint(stat);
+        for dev in stat:
+            print(dev);
+            for test in stat[dev]:
+                print(test);
+                for method in stat[dev][test]:
+                    print(method,stat[dev][test][method]["mono"]);
         print("saving to",metameta["working_dir"]);
         if(this.mw is not None):
             this.clayout.removeWidget(this.mw);
