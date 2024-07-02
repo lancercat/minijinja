@@ -3,7 +3,7 @@ This is a trimmed portable version of the internal remote management toolkit "ne
 
 We release this to help you visualize the logs for moose 
 
-Actually you can also use it to anything from project 280 to probably 320.
+Actually you can also use it to anything from project 280 to ~~probably 320~~ project 300(moose).
 
 ## Warning
 This script contains ssh and a bunch of similar stuff. 
