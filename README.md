@@ -21,7 +21,11 @@ Trusting code blindly from internet can lead to concequences.
 ## Usage
 First you config the ssh key to localhost, or what ever machine you use to store the logs. 
 
-Set the 
+Set the remote log paths in the devices.json  (yes you can have more than one remote). 
+
+Each device will have its own line-type --- which will make you aware if there is any device related difference. 
+
+Set local log storage in "meta_jpn"
 
 
 ## Trivia
